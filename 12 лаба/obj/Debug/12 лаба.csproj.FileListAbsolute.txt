@@ -1,0 +1,10 @@
+C:\Users\Nikita\source\repos\laba12model\12 лаба\obj\Debug\12 лаба.csprojAssemblyReference.cache
+C:\Users\Nikita\source\repos\laba12model\12 лаба\obj\Debug\_12_лаба.Form1.resources
+C:\Users\Nikita\source\repos\laba12model\12 лаба\obj\Debug\_12_лаба.Properties.Resources.resources
+C:\Users\Nikita\source\repos\laba12model\12 лаба\obj\Debug\12 лаба.csproj.GenerateResource.cache
+C:\Users\Nikita\source\repos\laba12model\12 лаба\obj\Debug\12 лаба.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\laba12model\12 лаба\bin\Debug\12 лаба.exe.config
+C:\Users\Nikita\source\repos\laba12model\12 лаба\bin\Debug\12 лаба.exe
+C:\Users\Nikita\source\repos\laba12model\12 лаба\bin\Debug\12 лаба.pdb
+C:\Users\Nikita\source\repos\laba12model\12 лаба\obj\Debug\12 лаба.exe
+C:\Users\Nikita\source\repos\laba12model\12 лаба\obj\Debug\12 лаба.pdb
